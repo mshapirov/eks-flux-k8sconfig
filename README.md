@@ -1,0 +1,1 @@
+# eks-flux-k8sconfig
